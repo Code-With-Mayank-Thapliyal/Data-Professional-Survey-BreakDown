@@ -79,10 +79,7 @@ This dashboard provides a **comprehensive overview** of the data professional la
 ---
 
 ## 📸 Screenshots / Demo
-_Add visuals of your Power BI dashboard here_  
-Example:  
-
-![Dashboard Screenshot](Insert-your-dashboard-image-link-here)  
+![Dashboard Screenshot](https://github.com/Code-With-Mayank-Thapliyal/Data-Professional-Survey-BreakDown/blob/main/DashBoard.png)
 
 ---
 
