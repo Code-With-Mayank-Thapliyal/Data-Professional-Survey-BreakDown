@@ -78,7 +78,7 @@ This dashboard provides a **comprehensive overview** of the data professional la
 
 ---
 
-## 📸 Screenshots / Demo
+## 📸 Screenshot Of DashBoard
 ![Dashboard Screenshot](https://github.com/Code-With-Mayank-Thapliyal/Data-Professional-Survey-BreakDown/blob/main/DashBoard.png)
 
 ---
